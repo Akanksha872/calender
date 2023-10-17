@@ -1,0 +1,7 @@
+.event {
+    display: flex;
+}
+
+.event-time {
+    padding-right: 4%;
+}
